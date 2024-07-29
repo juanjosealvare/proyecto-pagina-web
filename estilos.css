@@ -5,13 +5,22 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+   color: white;
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image:url(b.jpg) ;
+    background-image:url(J.webp) ;
 }
-   
+.titulo{
+
+    font-size: 50px;
+    text-align: ;
+    color: maroon;
+}
+.imagen{
+background-image: url(circuito.);
+
+}
