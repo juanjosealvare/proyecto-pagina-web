@@ -5,14 +5,14 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-   color: rgb(92, 229, 253);
+   color: rgb(0, 0, 0);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image:url(pn.jpg) ;
+    background-image:url(ab.jpg) ;
     
     
 }
@@ -20,12 +20,12 @@ body{
 
     font-size: 60px;
     text-align:100px ;
-    color: rgb(255, 153, 0);
+    color: rgba(255, 0, 0, 0.658);
 }
 .imagen1{
-background-image: url(circuito.webp);
-height: 297px;
-width: 568px;
+background-image: url(cir.jfif);
+height: 188px;
+width: 300px;
 background-repeat: no-repeat;
 float: left;
 
