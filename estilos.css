@@ -5,14 +5,14 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-   color: rgb(0, 0, 0);
+   color: rgb(34, 229, 255);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image:url(ab.jpg) ;
+    background-image:url(pn.jpg) ;
     
     
 }
@@ -20,12 +20,12 @@ body{
 
     font-size: 60px;
     text-align:100px ;
-    color: rgba(255, 0, 0, 0.658);
+    color: rgb(255, 255, 255);
 }
 .imagen1{
 background-image: url(cir.jfif);
-height: 188px;
-width: 300px;
+height: 171px;
+width: 315px;
 background-repeat: no-repeat;
 float: left;
 
