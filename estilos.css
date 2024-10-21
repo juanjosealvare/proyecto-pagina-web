@@ -5,14 +5,14 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-   color: rgb(34, 229, 255);
+   color: rgb(0, 0, 0);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image:url(pn.jpg) ;
+    background-image:url(fondoooooooooooooooooo.jfif) ;
     
     
 }
@@ -32,7 +32,7 @@ float: left;
 }
 .imglogo{
 
-width: 1000px;
+width: 1024px;
 height: 1000px;
 background-image: url("imaguen\ paguina.webp");
 
